@@ -1,7 +1,7 @@
 package tests
 
 import (
-	"github.com/gophersizes/link/htmllinkextractor"
+	"github.com/rickschubert/html-link-parser/htmllinkextractor"
 	"io/ioutil"
 	"log"
 	"testing"
